@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kenneth_Uyabeme_A3</string>
+    <string name="file_contents_message">File contents displayed here</string>
+    <string name="url_displayed_here_message">url will be displayed here</string>
+    <string name="must_get_url_first_message">Must get ULR first.</string>
+    <string name="no_internet_connection_message">No internet connection.</string>
+    <string name="student_info_saved_message">Info saved to student.txt</string>
+    <string name="must_load_from_web_first">Must load from web first</string>
+    <string name="cannot_open_file_message">Can\'t open file</string>
+</resources>
